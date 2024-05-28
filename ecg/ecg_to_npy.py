@@ -254,3 +254,6 @@ def chapman_wfdb_plot(path, rhythm, show_plot_data):
 
     print(record_list)
     wfdb.plot_wfdb(record=rd_record, figsize=(24,18), title='', ecg_grids='all')
+
+
+
